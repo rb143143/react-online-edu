@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-online-edu/static/css/main.865b0a12.css",
+    "main.js": "/react-online-edu/static/js/main.f76fae2a.js",
+    "static/js/787.1951d2e0.chunk.js": "/react-online-edu/static/js/787.1951d2e0.chunk.js",
+    "static/media/t1.webp": "/react-online-edu/static/media/t1.9cb482bba9b196d61c74.webp",
+    "static/media/t5.webp": "/react-online-edu/static/media/t5.9cb482bba9b196d61c74.webp",
+    "static/media/bg.webp": "/react-online-edu/static/media/bg.baa1024a4ae092566a75.webp",
+    "static/media/user.png": "/react-online-edu/static/media/user.4ce1ce10ce20ffcefb44.png",
+    "static/media/t3.webp": "/react-online-edu/static/media/t3.56b5eb5b091a40fafca8.webp",
+    "static/media/about.webp": "/react-online-edu/static/media/about.22f0f6ac19b3c2f6a0e8.webp",
+    "static/media/t4.webp": "/react-online-edu/static/media/t4.59f46c3cc1eab6dcf68b.webp",
+    "static/media/b3.webp": "/react-online-edu/static/media/b3.ca529ec00626375a6a79.webp",
+    "static/media/b1.webp": "/react-online-edu/static/media/b1.de9e12ece4129144828c.webp",
+    "static/media/t2.webp": "/react-online-edu/static/media/t2.acc25b2459e37cc67315.webp",
+    "static/media/t6.webp": "/react-online-edu/static/media/t6.acc25b2459e37cc67315.webp",
+    "static/media/c4.png": "/react-online-edu/static/media/c4.a3feae4530d5c710e29e.png",
+    "static/media/b2.webp": "/react-online-edu/static/media/b2.70157d5c97cdb1ed20bf.webp",
+    "static/media/b4.webp": "/react-online-edu/static/media/b4.9a4bc783322538145366.webp",
+    "static/media/c5.png": "/react-online-edu/static/media/c5.6f0eb7313b4452e355a5.png",
+    "static/media/b5.webp": "/react-online-edu/static/media/b5.8fa502abfabe136af0ad.webp",
+    "static/media/c1.png": "/react-online-edu/static/media/c1.31766937f940a3839ab0.png",
+    "static/media/c3.png": "/react-online-edu/static/media/c3.d45d529463d316c2f682.png",
+    "static/media/c2.png": "/react-online-edu/static/media/c2.3181373daab67b1669cd.png",
+    "static/media/c6.png": "/react-online-edu/static/media/c6.a295a75e212499be9182.png",
+    "index.html": "/react-online-edu/index.html",
+    "main.865b0a12.css.map": "/react-online-edu/static/css/main.865b0a12.css.map",
+    "main.f76fae2a.js.map": "/react-online-edu/static/js/main.f76fae2a.js.map",
+    "787.1951d2e0.chunk.js.map": "/react-online-edu/static/js/787.1951d2e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.865b0a12.css",
+    "static/js/main.f76fae2a.js"
+  ]
+}
